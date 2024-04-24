@@ -1,0 +1,22 @@
+{
+    "name": "calculator",
+    "version": "1.0.0",
+    "description": "calculator app for lab3",
+    "main": "index.js",
+    "scripts": {
+      "test": "test"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/darr4i/methodology-3.git"
+    },
+    "author": "darr4i",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/darr4i/methodology-3/issues"
+    },
+    "homepage": "https://github.com/darr4i/methodology-3#readme",
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }
